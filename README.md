@@ -77,9 +77,9 @@ ghost-toolkit/
 
 <div align="center">
 
-![Ghost-Bx1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghost-Bx1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghost-Bx1&theme=react-dark&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)](https://github.com/Ghost-Bx1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Bx1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ghost-Bx1&theme=darkhub&no-frame=true&row=1&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/Ghost-Bx1)
 
 </div>
 

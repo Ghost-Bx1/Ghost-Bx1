@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗   ██████╗ ██╗  ██╗ ██╗
- ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝  ██╔══██╗╚██╗██╔╝███║
- ██║  ███╗███████║██║   ██║███████╗   ██║     ██████╔╝ ╚███╔╝  ╚██║
- ██║   ██║██╔══██║██║   ██║╚════██║   ██║     ██╔══██╗ ██╔██╗   ██║
- ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║     ██████╔╝██╔╝ ██╗  ██║
-  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝     ╚═════╝ ╚═╝  ╚═╝  ╚═╝
-```
-
-### Offensive Security Specialist | Penetration Tester | CVE Researcher | Exploit Developer
+![banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Ghost-Bx1&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Security%20Researcher%20%7C%20CVE%20Researcher%20%7C%20Exploit%20Developer&descAlignY=58&descSize=18&descColor=ffffff)
 
 [![Visits](https://komarev.com/ghpvc/?username=Ghost-Bx1&color=red&style=flat-square&label=Profile+Views)](https://github.com/Ghost-Bx1)
 [![GitHub followers](https://img.shields.io/github/followers/Ghost-Bx1?label=Followers&style=flat-square&color=red)](https://github.com/Ghost-Bx1)
@@ -26,7 +17,7 @@ class GhostBx1:
     name       = "Darlisson Rocha"
     alias      = "Gh0st-Bx1"
     location   = "Fortaleza, Ceara, Brazil"
-    focus      = ["Offensive Security", "Penetration Testing", "CVE Research", "Red Team"]
+    focus      = ["Security Research", "CVE Research", "Exploit Development", "Red Team"]
     experience = "5+ years in cybersecurity"
     certs      = ["Ethical Hacker - IBSEC", "SOC Analyst - IBSEC", "ISO 27001 Associate - SkillFront", "ISC2 Member"]
     languages  = ["Python", "Bash", "C", "PowerShell"]

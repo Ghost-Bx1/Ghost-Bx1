@@ -1,10 +1,14 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Ghost-Bx1&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Security%20Researcher%20%7C%20CVE%20Researcher%20%7C%20Exploit%20Developer&descAlignY=58&descSize=18&descColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0000,100:FF0000&height=240&section=header&text=Ghost-Bx1&fontSize=85&fontAlignY=38&animation=fadeIn&fontColor=FF0000&desc=Security%20Researcher%20%7C%20CVE%20Researcher%20%7C%20Exploit%20Developer&descAlignY=58&descSize=18&descColor=cc3333&stroke=330000&strokeWidth=1)
 
-[![Visits](https://komarev.com/ghpvc/?username=Ghost-Bx1&color=red&style=flat-square&label=Profile+Views)](https://github.com/Ghost-Bx1)
-[![GitHub followers](https://img.shields.io/github/followers/Ghost-Bx1?label=Followers&style=flat-square&color=red)](https://github.com/Ghost-Bx1)
-[![GitHub stars](https://img.shields.io/github/stars/Ghost-Bx1?label=Stars&style=flat-square&color=red)](https://github.com/Ghost-Bx1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=FF2222&background=00000000&center=true&vCenter=true&width=580&lines=Initializing+Ghost+Protocol...;%5B+BREACH+DETECTED+%5D+Bypassing+firewall...;Enumerating+attack+surface...;CVE+researcher+%7C+Exploit+developer;Red+Team+Operator+%7C+Threat+Hunter;%5B+ACCESS+GRANTED+%5D+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://github.com/Ghost-Bx1)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ghost-Bx1&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Ghost-Bx1?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=0D0D0D)
+![GitHub stars](https://img.shields.io/github/stars/Ghost-Bx1?label=STARS&style=for-the-badge&color=FF0000&labelColor=0D0D0D)
 
 </div>
 
@@ -109,8 +113,8 @@ ghost-toolkit/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlisson-daniel/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ghost-Bx1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlisson-daniel/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghost-Bx1)
 
 </div>
 

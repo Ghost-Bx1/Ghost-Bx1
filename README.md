@@ -10,70 +10,69 @@
 
 ---
 
-## About Me
+## `> whoami`
 
 ```python
 class GhostBx1:
     name       = "Darlisson Rocha"
     alias      = "Gh0st-Bx1"
-    location   = "Fortaleza, Ceara, Brazil"
     focus      = ["Security Research", "CVE Research", "Exploit Development", "Red Team"]
     experience = "5+ years in cybersecurity"
-    certs      = ["Ethical Hacker - IBSEC", "SOC Analyst - IBSEC", "ISO 27001 Associate - SkillFront", "ISC2 Member"]
     languages  = ["Python", "Bash", "C", "PowerShell"]
     tools      = ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "Hashcat", "Aircrack-ng", "BloodHound"]
+    status     = "[ ACTIVE ]"
 ```
 
----
-
-## Expertise
-
-| Area | Skills |
-|------|--------|
-| **Penetration Testing** | Web App, Network, Mobile, Cloud, WiFi |
-| **Exploit Development** | PoC/Exploit writing, CVE research, CVSS analysis |
-| **Red Team** | Adversarial simulation, OSINT, Social Engineering |
-| **Threat Intelligence** | IOC analysis, Threat Hunting, Adversary TTPs |
-| **Vulnerability Management** | Risk Assessment, ISO 27001, NIST, OWASP |
-| **Security Tools** | Custom offensive tooling in Python |
+> _"The quieter you become, the more you are able to hear."_
 
 ---
 
-## CVE Research & Exploits
+## `> ./expertise --list`
+
+| Module | Capabilities |
+|--------|-------------|
+| `web_pentest` | Web App, API, Auth Bypass, SQLi, RCE |
+| `exploit_dev` | PoC/Exploit writing, CVE research, CVSS analysis |
+| `red_team` | Adversarial simulation, OSINT, Social Engineering |
+| `threat_intel` | IOC analysis, Threat Hunting, Adversary TTPs |
+| `net_pentest` | Network, Mobile, Cloud, WiFi |
+| `tooling` | Custom offensive tooling in Python |
+
+---
+
+## `> cat cve_research.txt`
 
 > Public PoCs and full exploits for critical vulnerabilities.
 
 | CVE | Severity | Description |
 |-----|----------|-------------|
-| [CVE-2024-4577](https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) | CVSS 9.8 | PHP CGI RCE - Windows |
-| [CVE-2026-109618](https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) | CVSS 9.2 | PHP php2shell RCE |
-| [CVE-2026-111497](https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497) | CVSS 9.2 | Node.js Brotli OOB Write Pre-Auth RCE |
-| [CVE-2026-39808](https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656) | CVSS 9.8 | FortiSandbox Pre-Auth RCE |
-| [CVE-2026-14440](https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651) | CVSS 9.6 | Cloudflare Universal SSL CAA Bypass |
-| [CVE-2026-114148](https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148) | CVSS 7.8 | .NET Linux Tarball Local Privilege Escalation |
-| [CVE-2026-80097](https://github.com/Ghost-Bx1/AuthenticatorFlaw-CVE-2026-80097) | CVSS 8.1 | Microsoft Authenticator Android Token Theft |
+| [CVE-2024-4577](https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) | ![CVSS 9.8](https://img.shields.io/badge/CVSS-9.8-red?style=flat-square) | PHP CGI RCE - Windows |
+| [CVE-2026-109618](https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) | ![CVSS 9.2](https://img.shields.io/badge/CVSS-9.2-red?style=flat-square) | PHP php2shell RCE |
+| [CVE-2026-111497](https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497) | ![CVSS 9.2](https://img.shields.io/badge/CVSS-9.2-red?style=flat-square) | Node.js Brotli OOB Write Pre-Auth RCE |
+| [CVE-2026-39808](https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656) | ![CVSS 9.8](https://img.shields.io/badge/CVSS-9.8-red?style=flat-square) | FortiSandbox Pre-Auth RCE |
+| [CVE-2026-14440](https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651) | ![CVSS 9.6](https://img.shields.io/badge/CVSS-9.6-red?style=flat-square) | Cloudflare Universal SSL CAA Bypass |
+| [CVE-2026-114148](https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148) | ![CVSS 7.8](https://img.shields.io/badge/CVSS-7.8-orange?style=flat-square) | .NET Linux Tarball Local Privilege Escalation |
+| [CVE-2026-80097](https://github.com/Ghost-Bx1/AuthenticatorFlaw-CVE-2026-80097) | ![CVSS 8.1](https://img.shields.io/badge/CVSS-8.1-red?style=flat-square) | Microsoft Authenticator Android Token Theft |
 
 ---
 
-## Ghost Toolkit - Offensive Security Suite
-
-> Collection of custom security tools built for real-world engagements.
+## `> ls ghost-toolkit/`
 
 ```
 ghost-toolkit/
-- ghost-wifi      - WiFi attack framework (monitor, deauth, handshake capture, crack)
-- ghost-recon     - Passive/active network reconnaissance toolkit
-- ghost-ad        - Active Directory enumeration and attack automation
-- ghost-shell     - Post-exploitation shell management and persistence
-- ghost-cloud     - Cloud security assessment (AWS/Azure/GCP)
-- ghost-report    - Automated pentest report generation
-- node2shell      - Node.js exploitation framework
-- dotnet-http2shell - .NET HTTP/2 exploitation tools
+├── ghost-wifi      # WiFi attack framework (monitor, deauth, handshake capture, crack)
+├── ghost-recon     # Passive/active network reconnaissance toolkit
+├── ghost-ad        # Active Directory enumeration and attack automation
+├── ghost-shell     # Post-exploitation shell management and persistence
+├── ghost-cloud     # Cloud security assessment (AWS/Azure/GCP)
+├── ghost-report    # Automated pentest report generation
+├── node2shell      # Node.js exploitation framework
+└── dotnet-http2shell # .NET HTTP/2 exploitation tools
 ```
 
 ---
 
-## GitHub Stats
+## `> ./stats --github`
 
 <div align="center">
 
@@ -85,7 +84,7 @@ ghost-toolkit/
 
 ---
 
-## Skills & Technologies
+## `> uname -a`
 
 <div align="center">
 
@@ -106,16 +105,7 @@ ghost-toolkit/
 
 ---
 
-## Certifications
-
-- Hacker Etico - **IBSEC** (Instituto Brasileiro de Ciberseguranca)
-- Analista SOC Profissional - **IBSEC**
-- ISO 27001 Associate - **SkillFront**
-- Member - **ISC2**
-
----
-
-## Contact
+## `> ./contact --social`
 
 <div align="center">
 
@@ -127,5 +117,5 @@ ghost-toolkit/
 ---
 
 <div align="center">
-<sub>All tools and exploits are for authorized security testing and research only.</sub>
+<sub>[ All tools and exploits are for authorized security testing and research only. ]</sub>
 </div>

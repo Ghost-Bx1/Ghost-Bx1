@@ -57,6 +57,7 @@ class GhostBx1:
 | [CVE-2026-14440](https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651) | ![CVSS 9.6](https://img.shields.io/badge/CVSS-9.6-red?style=flat-square) | Cloudflare Universal SSL CAA Bypass |
 | [CVE-2026-114148](https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148) | ![CVSS 7.8](https://img.shields.io/badge/CVSS-7.8-orange?style=flat-square) | .NET Linux Tarball Local Privilege Escalation |
 | [CVE-2026-80097](https://github.com/Ghost-Bx1/AuthenticatorFlaw-CVE-2026-80097) | ![CVSS 8.1](https://img.shields.io/badge/CVSS-8.1-red?style=flat-square) | Microsoft Authenticator Android Token Theft |
+| [CVE-2026-119618](https://github.com/Ghost-Bx1/apache-exploits) | ![CVSS 9.8](https://img.shields.io/badge/CVSS-9.8-red?style=flat-square) | Apache mod_http2 Race Condition RCE |
 
 ---
 
@@ -71,6 +72,7 @@ ghost-toolkit/
 ├── ghost-cloud     # Cloud security assessment (AWS/Azure/GCP)
 ├── ghost-report    # Automated pentest report generation
 ├── node2shell      # Node.js exploitation framework
+├── ghost-wordlists  # Wordlists focadas no contexto brasileiro (WiFi, servicos, web, DB)
 └── dotnet-http2shell # .NET HTTP/2 exploitation tools
 ```
 

@@ -72,7 +72,7 @@ ghost-toolkit/
 ├── ghost-cloud     # Cloud security assessment (AWS/Azure/GCP)
 ├── ghost-report    # Automated pentest report generation
 ├── node2shell      # Node.js exploitation framework
-├── ghost-wordlists  # Wordlists focadas no contexto brasileiro (WiFi, servicos, web, DB)
+├── ghost-wordlists  # Wordlists focadas no contexto brasileiro 11k+ entradas (WiFi, ISPs, nomes, futebol, corporativo)
 └── dotnet-http2shell # .NET HTTP/2 exploitation tools
 ```
 

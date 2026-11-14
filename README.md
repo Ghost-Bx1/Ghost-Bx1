@@ -72,7 +72,7 @@ ghost-toolkit/
 ├── ghost-cloud     # Cloud security assessment (AWS/Azure/GCP)
 ├── ghost-report    # Automated pentest report generation
 ├── node2shell      # Node.js exploitation framework
-├── ghost-wordlists  # 3M+ entradas - John, darkc0de, Metasploit, SecLists, fontes BR (WiFi WPA, ISPs, corporativo)
+├── ghost-wordlists  # 3.4M+ entradas - John, darkc0de, Wifite, vazamentos reais, SecLists, fontes BR
 └── dotnet-http2shell # .NET HTTP/2 exploitation tools
 ```
 
